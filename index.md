@@ -1,2 +1,2 @@
-#Busan300 Notes#
+# Busan 300 - Lecture notes
 **Lecture 1**
